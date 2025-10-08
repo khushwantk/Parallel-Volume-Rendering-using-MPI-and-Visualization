@@ -58,3 +58,4 @@ mpirun -np <num_processes> python3 volume_rendering.py <volume_file> <partition_
 <y_min>, <y_max>: The bounds for the y-axis (e.g. 0  to 999). 
 
 
+
